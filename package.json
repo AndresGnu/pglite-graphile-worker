@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "esno index.ts"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "^0.2.9",
+    "esno": "^4.8.0",
+    "graphile-worker": "^0.16.6",
+    "pg-pool": "^3.7.0",
+    "pg-types": "^4.0.2",
+    "destr": "^2.0.3"
+  }
+}
